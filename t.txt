@@ -1,0 +1,6 @@
+Car
+5 15000 20 blue benzin 40 3.5 1998 2000 15
+Car
+5 15000 20 blue benzin 40 3.5 1998 2000 15
+Car
+5 15000 20 blue benzin 40 3.5 1998 2000 15
